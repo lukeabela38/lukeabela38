@@ -1,9 +1,8 @@
 # About Me
 
 - 👋 Hi, I’m @lukeabela38
-- 👀 I’m interested in Artificial Intelligence and Electronics Engineering, especially when applied to creative applications such as language and music.
-- 🌱 I’m currently into projects related to music, machine learning, natural language processing, and robotics.
-
+- 👀 I’m interested in Artificial Intelligence, Computer Science, and Electronics Engineering, especially when applied to natural language processing and algorithm development.
+- 🌱 I’m currently into projects related to artificial intelligence algorithms.
 
 <!---
 lukeabela38/lukeabela38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
